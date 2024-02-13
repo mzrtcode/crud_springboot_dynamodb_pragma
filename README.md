@@ -22,3 +22,7 @@ Este proyecto es una Prueba de Concepto (POC) que muestra una aplicación Spring
 
    ```bash
    git clone https://github.com/tuusuario/spring-boot-3-crud-serverless.git
+
+Badado en:
+ - Tutorial Youtube: https://www.youtube.com/watch?v=3ay92ZdCgwQ&t=85s
+ - Este articulo: https://medium.com/linkit-intecs/getting-started-with-crud-operations-in-spring-boot-and-dynamodb-a-beginners-guide-75ecad3b0452
